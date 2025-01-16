@@ -31,9 +31,9 @@
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Chronic Lymphocytic Leukemia (CLL)** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+**Chronic Lymphocytic Leukemia (CLL)** is a prevalent form of leukemia, where early detection and management are critical to improving outcomes. This project employs a **Long Short-Term Memory (LSTM)** neural network to predict two vital metrics: **Crude Mortality Rate** (deaths per 100,000 individuals) and **Survival Rate** (likelihood of survival as a percentage). By analyzing **age, sex, ethnicity, race, and year,** the model offers personalized and time-sensitive predictions.
 
-Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Chronic Lymphocytic Leukemia** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
+An **interactive Streamlit-based diagnostic tool** allows users to input demographic details for tailored predictions, bridging **advanced analytics** with **practical applications**. This project highlights the transformative potential of **AI-driven** solutions in addressing **oncology's** complex challenges and supporting precision medicine.
 
 ---
 
